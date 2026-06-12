@@ -8,19 +8,19 @@
 
 ## 📌 Table of Contents
 
-* <a href="#overview">Overview</a>
-* <a href="#business-problem">Business Problem</a>
-* <a href="#dataset">dataset</a>
-* <a href="#tools--technologies">Tools & Technologies</a>
-* <a href="#project-structure">Project Structure</a>
-* <a href="#compliance analysis process">Compliance Analysis Process</a>
-* <a href="#system architecture & workflow">System Architecture & Workflow</a>
-* <a href="#research questions & key insights">Research Questions & Key Insights</a>
-* <a href="#dashboard">Dashboard</a>
-* <a href="#how to run this project">How to Run This Project</a>
-* <a href="#future enhancements">Future Enhancements</a>
-* <a href="#final recommendations">Final Recommendations</a>
-* <a href="#author & contact">Author & Contact</a>
+* [Overview](#overview)
+* [Business Problem](#business-problem)
+* [Dataset](#dataset)
+* [Tools & Technologies](#tools--technologies)
+* [Project Structure](#project-structure)
+* [Compliance Analysis Process](#compliance-analysis-process)
+* [System Architecture & Workflow](#system-architecture--workflow)
+* [Research Questions & Key Insights](#research-questions--key-insights)
+* [Dashboard](#dashboard)
+* [How to Run This Project](#how-to-run-this-project)
+* [Future Enhancements](#future-enhancements)
+* [Final Recommendations](#final-recommendations)
+* [Author & Contact](#author--contact)
 
 ---
 
