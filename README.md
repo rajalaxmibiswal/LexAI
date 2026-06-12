@@ -206,12 +206,7 @@ Compliance Dashboard
 
 The Streamlit dashboard provides:
 
-* PDF Document Upload Interface
-* Framework Selection (GDPR, DPDP, ISO 27001)
-* Compliance Score Visualization
-* Compliance Findings Dashboard
-* AI-Generated Audit Reports
-* Regulatory Update Insights
+
 
 ---
 
@@ -290,8 +285,6 @@ Areas of Interest:
 * Risk Assessment
 * Data Governance
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [rajalaxmibiswal2005@gmail.com](mailto:rajalaxmibiswal2005@gmail.com)
 
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
-
-🔗 GitHub: https://github.com/yourusername
+🔗 GitHub: https://github.com/rajalaxmibiswal
