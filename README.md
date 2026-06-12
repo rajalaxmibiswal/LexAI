@@ -206,8 +206,19 @@ Compliance Dashboard
 
 The Streamlit dashboard provides:
 ### Home Page
+![Homepage](screenshots/homepage.png)
 
+### Document Processed
+![Document Processed](screenshots/documentprocessed.png)
 
+### Compliance Analysis
+![Compliance Analysis](screenshots/complianceScore.png)
+
+### Risk Dashboard
+![Risk Dashboard](screenshots/riskassessment.png)
+
+### Recommendation
+![Recommendation](screenshots/recommendation.png)
 
 ---
 
