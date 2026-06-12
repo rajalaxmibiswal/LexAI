@@ -8,7 +8,7 @@
 
 ## 📌 Table of Contents
 
-* Overview
+* <a href="#overview">Overview</a>
 * Business Problem
 * Dataset
 * Tools & Technologies
