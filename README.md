@@ -10,17 +10,17 @@
 
 * <a href="#overview">Overview</a>
 * <a href="#business-problem">Business Problem</a>
-* <a href="#dataset">Dataset</a>
+* <a href="#dataset">dataset</a>
 * <a href="#tools--technologies">Tools & Technologies</a>
 * <a href="#project-structure">Project Structure</a>
-* <a href="#Compliance Analysis Process">Compliance Analysis Process</a>
-* <a href="# System Architecture & Workflow"> System Architecture & Workflow</a>
-* <a href="# Research Questions & Key Insights"> Research Questions & Key Insights</a>
-* <a href="# Dashboard"> Dashboard</a>
-* <a href="#How to Run This Project"> How to Run This Project</a>
-* <a href="#Future Enhancements"> Future Enhancements/a>
-* <a href="#Final Recommendations">Final Recommendations/a>
-* <a href="#Author & Contact">Author & Contact/a>
+* <a href="#compliance analysis process">Compliance Analysis Process</a>
+* <a href="#system architecture & workflow">System Architecture & Workflow</a>
+* <a href="#research questions & key insights">Research Questions & Key Insights</a>
+* <a href="#dashboard">Dashboard</a>
+* <a href="#how to run this project">How to Run This Project</a>
+* <a href="#future enhancements">Future Enhancements</a>
+* <a href="#final recommendations">Final Recommendations</a>
+* <a href="#author & contact">Author & Contact</a>
 
 ---
 
