@@ -230,7 +230,7 @@ The Streamlit dashboard provides:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/legal-compliance-auditor.git
+git clone https://github.com/rajalaxmibiswal/legal-compliance-auditor.git
 cd legal-compliance-auditor
 ```
 
