@@ -9,18 +9,18 @@
 ## 📌 Table of Contents
 
 * <a href="#overview">Overview</a>
-* Business Problem
-* Dataset
-* Tools & Technologies
-* Project Structure
-* Compliance Analysis Process
-* System Architecture & Workflow
-* Research Questions & Key Insights
-* Dashboard
-* How to Run This Project
-* Future Enhancements
-* Final Recommendations
-* Author & Contact
+* <a href="#business-problem">Business Problem</a>
+* <a href="#dataset">Dataset</a>
+* <a href="#tools--technologies">Tools & Technologies</a>
+* <a href="#project-structure">Project Structure</a>
+* <a href="#Compliance Analysis Process">Compliance Analysis Process</a>
+* <a href="# System Architecture & Workflow"> System Architecture & Workflow</a>
+* <a href="# Research Questions & Key Insights"> Research Questions & Key Insights</a>
+* <a href="# Dashboard"> Dashboard</a>
+* <a href="#How to Run This Project"> How to Run This Project</a>
+* <a href="#Future Enhancements"> Future Enhancements/a>
+* <a href="#Final Recommendations">Final Recommendations/a>
+* <a href="#Author & Contact">Author & Contact/a>
 
 ---
 
@@ -205,6 +205,7 @@ Compliance Dashboard
 ## Dashboard
 
 The Streamlit dashboard provides:
+### Home Page
 
 
 
